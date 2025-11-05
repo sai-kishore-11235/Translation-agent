@@ -1,0 +1,5 @@
+langchain-google-genai
+langgraph
+langchain-core
+pandas
+openpyxl
